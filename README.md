@@ -12,3 +12,8 @@
 - .img: displays an image of the search keywords
 - .calc: displays the result of a math expression
 - .graph: graphs a given function
+
+ # Examples
+<img width="731" alt="screen_shot" src="https://user-images.githubusercontent.com/49791407/162538388-ab21c3fd-b40c-48cf-a350-7ed56f7b47ae.png">
+<img width="728" alt="screen_shot" src="https://user-images.githubusercontent.com/49791407/162538626-dbc7f9a8-cc45-4de9-87f6-ae7161dc1e87.png">
+<img width="731" alt="screen_shot" src="https://user-images.githubusercontent.com/49791407/162538729-7b177c0c-0764-4302-8a9a-05e22c6d638f.png">
