@@ -1,4 +1,8 @@
-![Discord Bot-1](https://user-images.githubusercontent.com/49791407/185975164-4fa2c354-e457-4d10-8f5b-2feee0ad0cd7.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/49791407/185975164-4fa2c354-e457-4d10-8f5b-2feee0ad0cd7.png">
+  <b>A general purpose discord bot with prebuilt games and mathematical features.</b>
+ </div>
+ <br>
 
 ![](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=blue&color=white)
